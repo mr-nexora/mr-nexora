@@ -1,9 +1,7 @@
 # 💫 Hi 👋, I'm Sahan Udara
+
 **Aspiring Full Stack Developer | Passionate Self-Learner | Founder @ SU Nexoraz**
 
-<div align="right">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g1YjlzcDE5bXhoa21ka3pqcXo1Zm4wN3M3MG9kemZteGw4anVkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100" height="100" alt="Coding GIF">
-</div>
 
 Email Me 👉 ✉️ **mr.nexora.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 

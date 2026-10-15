@@ -1,0 +1,17 @@
+GITHUB PROFILE SETUP
+
+1. Open github.com/mr-nexora/mr-nexora.
+2. Replace the root README.md with the README.md in this package.
+3. Upload the entire assets folder into the repository root.
+4. Commit README.md and assets together.
+5. Do not upload this ZIP as the profile: extract its contents first.
+
+EDITING
+Update Current work after meaningful milestones.
+Update project summaries and actual contribution details as your work changes.
+The navigation buttons jump to headings inside README.md.
+All visual assets are local to the repo; no stats/widget service is required.
+The coding GIF is decorative, not a live editor or activity feed.
+On narrow screens, GitHub may stack/wrap the layout.
+Brand/channel URLs were not guessed; add verified links later.
+Keep SETUP.txt out of the profile repo if you prefer.

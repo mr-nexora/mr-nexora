@@ -129,10 +129,17 @@ These later stages describe my learning plan, rather than current expertise.
 
 <!-- Add verified brand/channel links when available. Avoid placeholder URLs. -->
 
-## Contact
+### Content & social profiles
 
-Interested in a student project, a practical web collaboration, or exchanging feedback on learning resources?
+<p>
+  <a href="https://instagram.com/sahanuathennakoon17"><img src="assets/instagram.svg" height="36" alt="Instagram" /></a>
+  <a href="https://x.com/mr_nexora"><img src="assets/x.svg" height="36" alt="X / Twitter" /></a>
+  <a href="https://www.tiktok.com/@mr_nexora"><img src="assets/tiktok.svg" height="36" alt="Tiktok" /></a>
+  <a href="https://medium.com/@mrnexora"><img src="assets/medium.svg" height="36" alt="Medium" /></a>
+</p>
 
-**[Send me an email](mailto:mr.nexora.dev@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/mr-nexora/)** · **[Visit my portfolio](https://mr-nexora.github.io/mr-nexora-personal-portfolio/)**
+**Email:** [mr.nexora.dev@gmail.com](mailto:mr.nexora.dev@gmail.com)
+
+
 
 <p align="center"><sub>Sahan Udara · Mr. Nexora · Learning. Building. Sharing.</sub></p>
